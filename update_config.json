@@ -4,5 +4,5 @@
   "package_name": "org.lianfan.noname",
   "url": "https://example.com/your_app.apk",
   "changelog": "首次发布版本",
-  "mandatory": false
+  "mandatory": true
 }
